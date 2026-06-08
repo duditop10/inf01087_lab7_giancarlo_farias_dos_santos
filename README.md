@@ -1,4 +1,4 @@
-# Laboratório de GitHub
+# Laboratório de GitHub 2
 Nome: Giancarlo Farias dos Santos
 Curso: Ciência da Computação
 Disciplina: INF01087
